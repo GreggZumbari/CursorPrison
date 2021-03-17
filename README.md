@@ -1,0 +1,2 @@
+# CursorPrisoner
+ A program made in AutoHotKey which cuases the mouse to be stuck in one place. This effect can be enabled and disabled by pressing TAB, and the program can be terminated by pressing ScrollLock. This program is meant for speedrunning purposes, as some older programs do not lock the cursor to the application window automatically. This code is open source, so feel free to edit and redistridute as you please. There really isn't even very much code to begin with. :)
